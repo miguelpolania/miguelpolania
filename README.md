@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! Soy Miguel Ángel Polanía 👋
 
-<!--
-**miguelpolania/miguelpolania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Análisis y Desarrollo de Software (SENA)
 
-Here are some ideas to get you started:
+💻 Intereses:
+- Soporte técnico
+- Desarrollo de software
+- Tecnología e informática
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Actualmente me encuentro aprendiendo:
+- Lógica de programación
+- HTML
+- Herramientas informáticas
+
+📌 Objetivo:
+Desarrollarme como profesional en el área de tecnología y adquirir experiencia en desarrollo de software y soporte técnico.
